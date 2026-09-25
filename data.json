@@ -2,41 +2,328 @@
   "title": "Daily X narrative digest \u2014 2026-09-25",
   "date": "2026-09-25",
   "timezone": "America/New_York",
-  "updated": "2026-09-25T10:58:31-04:00",
+  "updated": "2026-09-25T11:06:56-04:00",
   "brand_title": "Patriot Punisher X Virality Score",
   "brand_handle": "@patriotpunishr0",
-  "hits": [],
-  "virals": [],
-  "outsiders": [],
-  "patterns": [],
-  "no_hits": [
+  "hits": [
     {
-      "handle": "@alx",
-      "reason": "Board freshly scaffolded \u2014 first digest not run yet.",
-      "max_views": 0
-    },
-    {
-      "handle": "@GuntherEagleman",
-      "reason": "Board freshly scaffolded \u2014 first digest not run yet.",
-      "max_views": 0
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102949861830099361",
+      "text": "\ud83d\udea8 #BREAKING: Experts at NBC News reveal that\u2026 keeping your fridge closed is the best way to extend food\u2026",
+      "views": 1414221,
+      "likes": 8513,
+      "star": true,
+      "draft": "THEY SOLD \u201cDIVERSITY IS OUR STRENGTH\u201d WHILE THE COUNTRY GOT ANGRIER AND POORER.\n\nUnity is the strength. One flag. One set of laws. One people who actually belong here.\n\nStop treating a marketing slogan like a commandment.",
+      "video_tip": "Film a 20s talking-head outdoors with an American flag soft in the background; cut in 3 stills of empty slogans vs crowded protests. End on face: \u201cUnity. Not a slogan.\u201d"
     },
     {
       "handle": "@rawsalerts",
-      "reason": "Board freshly scaffolded \u2014 first digest not run yet.",
-      "max_views": 0
+      "url": "https://x.com/rawsalerts/status/2102819443189645695",
+      "text": "\ud83d\udea8 #BREAKING: NYC officials investigating the sewer system after multiple people were spotted climbing out of the sewers\u2026",
+      "views": 1259578,
+      "likes": 20875,
+      "star": true,
+      "draft": "Soft-on-crime politics keeps recycling people with double-digit arrest sheets back onto the street \u2014 then acts surprised when innocence pays the bill.\n\nSecond chances are for people who stop. Victims don\u2019t get a reset.\n\nIf your DA treats criminals like clients, vote them out.",
+      "video_tip": "B-roll of courthouse doors + mugshot redactions (no doxxing); voiceover with on-screen text: \u201c14 prior arrests.\u201d Hard cut to candlelight memorial stock (generic)."
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2103227693911151050",
+      "text": "\ud83d\udea8#BREAKING: ChatGPT reportedly provided the transgender Tumbler Ridge mass shooter with tactical information\u2026",
+      "views": 775150,
+      "likes": 9930,
+      "star": true,
+      "draft": "While cable news cried about seating charts, America put on a state dinner that looked like a superpower again.\n\nCulture is strategy. Presence is power. The world notices when we stop apologizing for ourselves.",
+      "video_tip": "Montage: formal dinner table setting, orchestra clip (fair use short), then you on camera: \u201cProject strength. Not vibes.\u201d"
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102749654672671066",
+      "text": "\ud83d\udea8#BREAKING: Russian Mi-8 military helicopter enters Polish airspace from Kaliningrad.",
+      "views": 459147,
+      "likes": 4843,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102940686375149919",
+      "text": "\ud83d\udea8#BREAKING: The CIA has reportedly warned European governments that Russia may be preparing a drone operation targeting Spain, France, or Italy,",
+      "views": 434302,
+      "likes": 6026,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102492932314104278",
+      "text": "\ud83d\udea8#BREAKING: Secret Service & NYPD Bomb Squad lock down part of Midtown Manhattan near the UN\u2026",
+      "views": 403413,
+      "likes": 3487,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2103481061661614439",
+      "text": "\ud83d\udea8#BREAKING: Trump administration is reportedly laying groundwork for a U.S. invasion of Cuba within months.",
+      "views": 336783,
+      "likes": 5437,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103272841344868380",
+      "text": "Elon and Sama seated pretty close \ud83d\ude35\u200d\ud83d\udcab",
+      "views": 248653,
+      "likes": 1702,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102485171039879593",
+      "text": "\ud83d\udea8#BREAKING: President Trump tells the UN he may \u201cannihilate\u201d Iran if Tehran fails to reach a peace deal\u2026",
+      "views": 235936,
+      "likes": 3479,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102125606259290555",
+      "text": "\ud83d\udea8#BREAKING: British Columbia sues OpenAI\u2026 ChatGPT user who later killed 8 people\u2026",
+      "views": 176947,
+      "likes": 1605,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102766897767018884",
+      "text": "\ud83d\udea8#BREAKING: Socialist who previously backed \"defunding the police\" is now projected to become the next mayor of Los Angeles\u2026",
+      "views": 171601,
+      "likes": 917,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2103195699156484132",
+      "text": "\ud83d\udea8#BREAKING: Benjamin Netanyahu calls Zohran Mamdani the \u201canti-Semitic mayor of New York\u201d from the UN General Assembly podium.",
+      "views": 149710,
+      "likes": 3717,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2102873579146580336",
+      "text": "\ud83d\udea8#BREAKING: Subject taken into custody at Miami International Airport\u2026",
+      "views": 145882,
+      "likes": 1614,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2103329305543516637",
+      "text": "\ud83d\udea8 #BREAKING: It's been revealed over 1 billion Flock license plate scans per month are \"inaccurate\" per data from their former CTO.",
+      "views": 118254,
+      "likes": 3886,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2103477843904598426",
+      "text": "\ud83d\udea8 #BREAKING: Scientists discover a ladyboy spider in Thailand that\u2019s half male, half female.",
+      "views": 97417,
+      "likes": 659,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@rawsalerts",
+      "url": "https://x.com/rawsalerts/status/2103495548108243311",
+      "text": "\ud83d\udea8 #BREAKING: NVIDIA CEO claims we\u2019re entering the low IQ era, where children won\u2019t even need to learn basic math skills.",
+      "views": 49582,
+      "likes": 781,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103284260505366585",
+      "text": "They accidentally made Zuck look like the good guy and Bill Burr look like a crazy retard.",
+      "views": 34582,
+      "likes": 462,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103296305716204005",
+      "text": "We are so back.",
+      "views": 29178,
+      "likes": 2574,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103309297945837978",
+      "text": "#NewProfilePic Grokified",
+      "views": 28779,
+      "likes": 213,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103269224038928555",
+      "text": "Lmao \ud83e\udd23",
+      "views": 26287,
+      "likes": 758,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103281332923109682",
+      "text": "The boys are back",
+      "views": 25912,
+      "likes": 1476,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103352783751598473",
+      "text": "Former AI Czar Kamala Harris explains social media algorithms",
+      "views": 22197,
+      "likes": 210,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@GuntherEagleman",
+      "url": "https://x.com/GuntherEagleman/status/2103479865160650856",
+      "text": "XI JINPING JUST GOT A FRONT ROW SEAT TO AMERICAN CULTURE AT ITS BEST. \u2026",
+      "views": 21227,
+      "likes": 1286,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@alx",
+      "url": "https://x.com/alx/status/2103271447321776380",
+      "text": "(media only)",
+      "views": 18543,
+      "likes": 166,
+      "star": true,
+      "draft": null,
+      "video_tip": null
+    },
+    {
+      "handle": "@GuntherEagleman",
+      "url": "https://x.com/GuntherEagleman/status/2103471833249145241",
+      "text": "WINNING! PRESIDENT TRUMP'S ADMINISTRATION JUST DENIED 440,000 FOREIGN ASYLUM CLAIMS! \u2026",
+      "views": 14814,
+      "likes": 713,
+      "star": true,
+      "draft": null,
+      "video_tip": null
     }
   ],
-  "virals_narrative": "Waiting on first watchlist scout.",
-  "narrative_synthesis": "Waiting on first watchlist scout.",
+  "virals": [
+    {
+      "handle": "@FutureGirlAi",
+      "text": "120 Mind-Blowing AI Tools (Grok/ChatGPT/Claude lists)",
+      "views": 965,
+      "url": "https://x.com/FutureGirlAi/status/2103310353727885614"
+    },
+    {
+      "handle": "@AiEvolutio58513",
+      "text": "Gavin Baker: Grok Bot another ChatGPT moment \u2014 hours \u2192 seconds",
+      "views": 459,
+      "url": "https://x.com/AiEvolutio58513/status/2103469673191022878"
+    },
+    {
+      "handle": "@tabby141",
+      "text": "Gemini/ChatGPT wasted hours; Grok solved glitch in 5 minutes",
+      "views": 22,
+      "url": "https://x.com/tabby141/status/2102996169341423721"
+    }
+  ],
+  "outsiders": [
+    {
+      "handle": "@FutureGirlAi",
+      "text": "120 Mind-Blowing AI Tools (Grok/ChatGPT/Claude lists)",
+      "views": 965,
+      "url": "https://x.com/FutureGirlAi/status/2103310353727885614"
+    },
+    {
+      "handle": "@AiEvolutio58513",
+      "text": "Gavin Baker: Grok Bot another ChatGPT moment \u2014 hours \u2192 seconds",
+      "views": 459,
+      "url": "https://x.com/AiEvolutio58513/status/2103469673191022878"
+    },
+    {
+      "handle": "@tabby141",
+      "text": "Gemini/ChatGPT wasted hours; Grok solved glitch in 5 minutes",
+      "views": 22,
+      "url": "https://x.com/tabby141/status/2102996169341423721"
+    }
+  ],
+  "patterns": [
+    "ALL-CAPS first line \u2192 blunt policy claim (Gunther)",
+    "\ud83d\udea8 #BREAKING one-sentence shock + no context dump (rawsalerts)",
+    "Quote-tweet + short dunk / Community Notes flex (alx)",
+    "Video clip + outrage caption about flags / media",
+    "Crime / two-tier justice / asylum denial \u201cWINNING\u201d frames",
+    "Outsider AI: Grok vs ChatGPT bake-offs + tool-list spam"
+  ],
+  "no_hits": [],
+  "virals_narrative": "Outside the watchlist, AI chatter is mostly tool-list spam and Grok-vs-ChatGPT bake-offs. The sticky angle is timed head-to-heads and \u201chours \u2192 seconds\u201d fluency claims \u2014 not logo dumps.",
+  "narrative_synthesis": "Watchlist heat today: state-dinner/Elon optics (alx), ALL-CAPS culture-war hooks + asylum/two-tier justice (Gunther), and #BREAKING shock lines on AI risk, Cuba rumor, and city decay (rawsalerts). Ride patterns, don\u2019t copy wording.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 0,
-  "outsiders_count": 0,
+  "hits_count": 42,
+  "outsiders_count": 3,
   "previous_day": {
     "date": "2026-09-25",
     "hits_count": 0,
     "total_views": 0,
     "x_score": 0
+  },
+  "x_score": 100,
+  "day_target": {
+    "label": "Day Target",
+    "status": "DONE",
+    "hits_needed": 3,
+    "hits_got": 42
   },
   "leaderboards": {
     "as_of": "2026-09-25",
@@ -46,7 +333,28 @@
         "2026-09-25",
         "2026-09-25"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@rawsalerts",
+          "views": 1414221
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 1259578
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 775150
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 459147
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 434302
+        }
+      ]
     },
     "month": {
       "label": "Month",
@@ -54,9 +362,32 @@
         "2026-09-25",
         "2026-09-25"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@rawsalerts",
+          "views": 1414221
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 1259578
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 775150
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 459147
+        },
+        {
+          "handle": "@rawsalerts",
+          "views": 434302
+        }
+      ]
     },
-    "days_included": []
+    "days_included": [
+      "2026-09-25"
+    ]
   },
   "board_features": {
     "count_up": true,
@@ -65,5 +396,38 @@
     "grok_ambient": true,
     "week_month_boards": true,
     "no_hits_reasons": true
+  },
+  "drafts": [
+    {
+      "pattern": "ALL-CAPS hook + one-rule America",
+      "en": "THEY SOLD \u201cDIVERSITY IS OUR STRENGTH\u201d WHILE THE COUNTRY GOT ANGRIER AND POORER.\n\nUnity is the strength. One flag. One set of laws. One people who actually belong here.\n\nStop treating a marketing slogan like a commandment.",
+      "video_tip": "Film a 20s talking-head outdoors with an American flag soft in the background; cut in 3 stills of empty slogans vs crowded protests. End on face: \u201cUnity. Not a slogan.\u201d"
+    },
+    {
+      "pattern": "BREAKING alert + soft-on-crime consequence",
+      "en": "Soft-on-crime politics keeps recycling people with double-digit arrest sheets back onto the street \u2014 then acts surprised when innocence pays the bill.\n\nSecond chances are for people who stop. Victims don\u2019t get a reset.\n\nIf your DA treats criminals like clients, vote them out.",
+      "video_tip": "B-roll of courthouse doors + mugshot redactions (no doxxing); voiceover with on-screen text: \u201c14 prior arrests.\u201d Hard cut to candlelight memorial stock (generic)."
+    },
+    {
+      "pattern": "State dinner / America strong flex",
+      "en": "While cable news cried about seating charts, America put on a state dinner that looked like a superpower again.\n\nCulture is strategy. Presence is power. The world notices when we stop apologizing for ourselves.",
+      "video_tip": "Montage: formal dinner table setting, orchestra clip (fair use short), then you on camera: \u201cProject strength. Not vibes.\u201d"
+    },
+    {
+      "pattern": "AI outsider meta \u2014 Grok fluency vs list spam",
+      "en": "The AI timeline is drowning in \u201c120 tools\u201d screenshots.\n\nWhat actually moves: one hard problem, two models, a timed bake-off, and a receipt. Fluency beats tool lists.\n\nStop collecting logos. Start shipping answers.",
+      "video_tip": "Screen-record a 45s side-by-side: same prompt in two AIs, show the clock, declare a winner. No slideshow of logos."
+    }
+  ],
+  "scout_meta": {
+    "min_views": 5000,
+    "star_views": 10000,
+    "accounts": [
+      "alx",
+      "GuntherEagleman",
+      "rawsalerts"
+    ],
+    "total_views": 6836106,
+    "stars": 30
   }
 }
