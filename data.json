@@ -1,0 +1,69 @@
+{
+  "title": "Daily X narrative digest \u2014 2026-09-25",
+  "date": "2026-09-25",
+  "timezone": "America/New_York",
+  "updated": "2026-09-25T10:58:31-04:00",
+  "brand_title": "Patriot Punisher X Virality Score",
+  "brand_handle": "@patriotpunishr0",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [],
+  "no_hits": [
+    {
+      "handle": "@alx",
+      "reason": "Board freshly scaffolded \u2014 first digest not run yet.",
+      "max_views": 0
+    },
+    {
+      "handle": "@GuntherEagleman",
+      "reason": "Board freshly scaffolded \u2014 first digest not run yet.",
+      "max_views": 0
+    },
+    {
+      "handle": "@rawsalerts",
+      "reason": "Board freshly scaffolded \u2014 first digest not run yet.",
+      "max_views": 0
+    }
+  ],
+  "virals_narrative": "Waiting on first watchlist scout.",
+  "narrative_synthesis": "Waiting on first watchlist scout.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "2026-09-25",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-09-25",
+    "week": {
+      "label": "Week",
+      "range": [
+        "2026-09-25",
+        "2026-09-25"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "Month",
+      "range": [
+        "2026-09-25",
+        "2026-09-25"
+      ],
+      "entries": []
+    },
+    "days_included": []
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "no_hits_reasons": true
+  }
+}
