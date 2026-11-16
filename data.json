@@ -1,542 +1,552 @@
 {
- "title": "Daily X narrative digest — 2026-11-13",
- "date": "2026-11-13",
+ "title": "Daily X narrative digest — 2026-11-16",
+ "date": "2026-11-16",
  "timezone": "America/New_York",
- "updated": "2026-11-13T11:14:47-05:00",
+ "updated": "2026-11-16T11:09:16-05:00",
  "brand_title": "Patriot Punisher X Virality Score",
  "brand_handle": "@patriotpunishr0",
  "hits": [
   {
-   "handle": "@rawsalerts",
-   "id": "2121052338802893266",
-   "url": "https://x.com/rawsalerts/status/2121052338802893266",
-   "text": "🚨 #BREAKING: Rumors of Jensen Huang having a fourth affair begin to swirl.",
-   "views": 1027343,
-   "likes": 14360,
-   "created_at": "2026-11-13T01:27:39Z",
+   "handle": "@GuntherEagleman",
+   "id": "2121417508787810503",
+   "url": "https://x.com/GuntherEagleman/status/2121417508787810503",
+   "text": "🚨 BREAKING: Transportation Secretary Sean Duffy just laid out EXACTLY what happened in the nationwide ground stop.\n\nAt 3:36 PM, radar and communications at air traffic centers across the country BECAME UNSTABLE. \nSystems",
+   "views": 3124661,
+   "likes": 10574,
+   "created_at": "2026-11-14T01:38:42Z",
    "star": true,
-   "draft": "In about 48 hours the Jensen Huang story went from one affair report, to a reported exit, to 'fourth affair' rumors, to reports of Nvidia employees asking the board to bring him back.\n\nMost of that came from rumors.\n\nThe part that matters: Nvidia makes the chips nearly every AI lab depends on. Watch who the board names as CEO, not the rumor mill.",
-   "video_tip": "12s: a GPU chip on a black background while four headline cards stack and blur ('Affair', 'Exit', 'Rumor #4', 'Bring him back'). The final frame stays sharp: 'Who runs the chips?' Calm voiceover stands out next to the siren posts."
-  },
-  {
-   "handle": "@rawsalerts",
-   "id": "2121207569276395884",
-   "url": "https://x.com/rawsalerts/status/2121207569276395884",
-   "text": "🚨 #BREAKING: Hundreds of women working at NVIDIA beg the board to reinstate Jensen Huang as CEO.",
-   "views": 436166,
-   "likes": 10842,
-   "created_at": "2026-11-13T11:44:29Z",
-   "star": true
+   "draft": "Friday's nationwide ground stop, in plain terms, according to Sec. Duffy:\n\nAt 3:36 PM, radar and comms at air traffic centers became unreliable. Not fully down. Just untrustworthy.\n\nWhen controllers can't trust the data, every plane stays on the ground.\n\nThis is what decades-old hardware costs when it fails.",
+   "video_tip": "15s: a radar sweep on a dark screen that starts to glitch and stutter at '3:36 PM', then a US map where airport dots turn red one at a time. End card: 'Not down. Unreliable.' Calm voiceover, no siren emojis, so it reads as the explainer next to the panic posts."
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2121043895576371684",
-   "url": "https://x.com/GuntherEagleman/status/2121043895576371684",
-   "text": "🚨 JUST IN: A massive Microsoft outage took down OUTLOOK AND TEAMS for millions of Americans today.\nThe trouble started shortly before 1:00 PM ET and hit Microsoft 365 services nationwide.\n\nMicrosoft says a number of its ",
-   "views": 420955,
-   "likes": 2298,
-   "created_at": "2026-11-13T00:54:06Z",
-   "star": true,
-   "draft": "Outlook and Teams went down for millions of people, and it stayed down for most of a day.\n\nHonest question: if your work email vanished for 17 hours, what's your backup?\n\nA second account? A phone number your team actually has? Or nothing?\n\nI'm starting to think 'nothing' is most of us.",
-   "video_tip": "10s screen-style clip: an inbox spinner that never loads, then a clock jumping ahead '1h... 6h... 17h'. End card: 'What's your backup?' Practical and non-partisan, so it can reach people outside the politics crowd."
+   "id": "2122025520632045740",
+   "url": "https://x.com/GuntherEagleman/status/2122025520632045740",
+   "text": "🚨 WOW: The FAA ground stop left a traveler named Frankie stranded in Atlanta, so he took an $850 LYFT ALL THE WAY TO INDIANA. 🤣\n\nFrankie was trying to get to Florida for work. His flight got canceled, and SIX DRIVERS too",
+   "views": 2614300,
+   "likes": 12125,
+   "created_at": "2026-11-15T17:54:44Z",
+   "star": true
   },
   {
    "handle": "@rawsalerts",
-   "id": "2120961756969467968",
-   "url": "https://x.com/rawsalerts/status/2120961756969467968",
-   "text": "🚨#BREAKING: Suspect in Washington, D.C., gym shooting identified as ER doctor Matt Lambert, who had sued his condo association over alleged black mold &amp; water damage.",
-   "views": 417695,
-   "likes": 3534,
-   "created_at": "2026-11-12T19:27:43Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2121210752413442502",
-   "url": "https://x.com/GuntherEagleman/status/2121210752413442502",
-   "text": "🚨 JUST IN: Microsoft Outlook has been DOWN FOR NEARLY 17 HOURS, and millions around the world still can't get into their email. \n\nThe outage has hit businesses, schools and governments in 74 COUNTRIES, including the Unit",
-   "views": 377552,
-   "likes": 6989,
-   "created_at": "2026-11-13T11:57:08Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2120934873808667004",
-   "url": "https://x.com/GuntherEagleman/status/2120934873808667004",
-   "text": "🚨 BOOM: Richard Blumenthal just got a taste of his own medicine.\n\nHe's been sending letters that donors call THREATENING to Americans whose only \"crime\" was donating to President Trump's White House ballroom.\n\nNow a U.S.",
-   "views": 325591,
-   "likes": 29495,
-   "created_at": "2026-11-12T17:40:53Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2121016802067013649",
-   "url": "https://x.com/GuntherEagleman/status/2121016802067013649",
-   "text": "Hey @grok, you know almost everything humans have ever written down. What's the one question you wish someone would finally ask you, and what's your answer?",
-   "views": 316996,
-   "likes": 1112,
-   "created_at": "2026-11-12T23:06:26Z",
+   "id": "2121987104091865162",
+   "url": "https://x.com/rawsalerts/status/2121987104091865162",
+   "text": "🚨 #BREAKING: Canadian cancer patient flees &amp; successfully escapes the country after they recommended assisted suicide.",
+   "views": 2086645,
+   "likes": 44450,
+   "created_at": "2026-11-15T15:22:04Z",
    "star": true,
-   "draft": "Hey @grok, what's one everyday skill most Americans had 75 years ago that most of us have completely lost, and how long would it take to learn it again?",
-   "video_tip": "No video needed. This is the '@grok question' format (biggest reach, almost no likes). Use a nostalgia hook like the 'glory days' and Mustang posts. Pin your own answer (fixing an engine, canning, darning socks) as the first reply to collect the engagement."
+   "draft": "A cancer patient leaving Canada because doctors brought up assisted suicide drew over 2M views this weekend.\n\nPeople aren't arguing about medicine. They're asking a simpler question:\n\nWhen the system offers death before treatment, who is it really serving?",
+   "video_tip": "10s: an empty hospital hallway, slow push-in, with on-screen text 'Treatment?' then 'or...' then a cut to a passport stamp. Quiet piano, no voiceover. Let the question on the last frame do the work."
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120924191457259886",
-   "url": "https://x.com/GuntherEagleman/status/2120924191457259886",
-   "text": "So much for the so-called “Blue Wave.”\n\nMore and more allegations of election fraud are surfacing, and that celebrated Democratic victory is looking more like a scandal than a landslide.\n\nThe American people deserve answ",
-   "views": 285298,
-   "likes": 13674,
-   "created_at": "2026-11-12T16:58:26Z",
+   "id": "2121423364493373494",
+   "url": "https://x.com/GuntherEagleman/status/2121423364493373494",
+   "text": "🚨 LMAO! An NBC reporter just tried to blame Trump for the ground stop, and Sean Duffy SHUT HER DOWN. \n\nNBC asked why fixing air traffic control hasn't been a priority when Republicans control Congress.\n\nDuffy fired back ",
+   "views": 1887376,
+   "likes": 57971,
+   "created_at": "2026-11-14T02:01:58Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120971516976275459",
-   "url": "https://x.com/GuntherEagleman/status/2120971516976275459",
-   "text": "If war ever reaches American soil, the enemy better understand one thing.\n\nThe American people are NOT defenseless, NOT helpless, and NOT waiting for permission to defend their families, their homes, and their freedom.\n\n",
-   "views": 254066,
-   "likes": 16793,
-   "created_at": "2026-11-12T20:06:30Z",
+   "id": "2121421455854289216",
+   "url": "https://x.com/GuntherEagleman/status/2121421455854289216",
+   "text": "🚨 HOLY CRAP: President Trump has DECLARED A NATIONAL EMERGENCY over America's broken air traffic control system.\n\nA reporter asked whether a cyberattack or a rogue AI did this. DHS Secretary Markwayne Mullin says there's",
+   "views": 1039456,
+   "likes": 14672,
+   "created_at": "2026-11-14T01:54:23Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120953866506109079",
-   "url": "https://x.com/GuntherEagleman/status/2120953866506109079",
-   "text": "Liberals are screaming for an immediate ban on boiling lobsters alive because a study shows they can feel pain.\n\nNow do a study on unborn babies.",
-   "views": 206123,
-   "likes": 23539,
-   "created_at": "2026-11-12T18:56:21Z",
+   "id": "2121357767352975477",
+   "url": "https://x.com/GuntherEagleman/status/2121357767352975477",
+   "text": "🚨 WOW! Everyone knows every airport in America is shut down. What people aren't talking about is the planes that are STILL IN THE AIR.\n\nAir traffic controllers now have to bring down every flight already airborne, and ea",
+   "views": 848880,
+   "likes": 6671,
+   "created_at": "2026-11-13T21:41:19Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120914036271317313",
-   "url": "https://x.com/GuntherEagleman/status/2120914036271317313",
-   "text": "🚨 LMAO! The Washington Post just tried to make a SCANDAL out of Marco Rubio going to his son's football games.\n\nThe Post added up more than $1.2 MILLION in military flight costs to Gainesville and says fifteen of those t",
-   "views": 196792,
-   "likes": 17855,
-   "created_at": "2026-11-12T16:18:05Z",
+   "id": "2121644528809529684",
+   "url": "https://x.com/GuntherEagleman/status/2121644528809529684",
+   "text": "🚨 BOOM: The Trump administration says they FOUND THE ROOT CAUSE of the nationwide ground stop, and now a major federal contractor is in the hot seat.\n\nOfficials say they isolated ONE LOCATION and took it offline. Once th",
+   "views": 652115,
+   "likes": 14652,
+   "created_at": "2026-11-14T16:40:48Z",
+   "star": true
+  },
+  {
+   "handle": "@rawsalerts",
+   "id": "2121770271661269038",
+   "url": "https://x.com/rawsalerts/status/2121770271661269038",
+   "text": "🚨 #BREAKING: GTA VI is now less than “1 shower away” per the gamers’ average shower schedule",
+   "views": 632246,
+   "likes": 16469,
+   "created_at": "2026-11-15T01:00:28Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2121098730967617933",
-   "url": "https://x.com/GuntherEagleman/status/2121098730967617933",
-   "text": "Hey @grok, which country do you think will be the most powerful in the world 50 years from now, and is America still number one?",
-   "views": 172399,
-   "likes": 505,
-   "created_at": "2026-11-13T04:32:00Z",
+   "id": "2122057870112129087",
+   "url": "https://x.com/GuntherEagleman/status/2122057870112129087",
+   "text": "🚨 WOW: CBS just laid out how fast the Trump White House moved when the FAA GROUNDED THE ENTIRE COUNTRY. \n\nThe ground stop hit at 3:36 p.m. ET Friday with 3,500 FLIGHTS IN THE AIR. U.S. officials say Trump was informed wi",
+   "views": 514841,
+   "likes": 13582,
+   "created_at": "2026-11-15T20:03:16Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120947982371606929",
-   "url": "https://x.com/GuntherEagleman/status/2120947982371606929",
-   "text": "I stand only for JESUS CHRIST and no man is going to force his fake religion down the throats of Christians.\n\nI FEAR ONLY GOD. https://t.co/v9Jcd3tSaV",
-   "views": 128202,
-   "likes": 1342,
-   "created_at": "2026-11-12T18:32:58Z",
+   "id": "2121570544629739697",
+   "url": "https://x.com/GuntherEagleman/status/2121570544629739697",
+   "text": "🚨 BREAKING: Thousands of people have been EVACUATED in Peoria, Illinois, after a BOMB WAS FOUND at an ethanol plant.\n\nPolice ordered everyone within a 1-MILE RADIUS to get out. Bomb techs rendered the package safe around",
+   "views": 450964,
+   "likes": 8244,
+   "created_at": "2026-11-14T11:46:49Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2121109300571451904",
-   "url": "https://x.com/GuntherEagleman/status/2121109300571451904",
-   "text": "The whole damn country knows they cheated in the midterms. \n\nHell, even their own base knows it. It’s so damn obvious, and Americans are sick of it. \n\nIt’s time to start making arrests.",
-   "views": 122988,
-   "likes": 10664,
-   "created_at": "2026-11-13T05:14:00Z",
+   "id": "2121298489535541416",
+   "url": "https://x.com/GuntherEagleman/status/2121298489535541416",
+   "text": "🚨 WOW! Justice Samuel Alito just put Congress ON NOTICE. \n\nAlito warned Thursday that Congress can \"TURN OFF THE LIGHTS AT THE SUPREME COURT and stop everything from happening\" if it defunds the Court.\n\nHe said that if t",
+   "views": 404579,
+   "likes": 15915,
+   "created_at": "2026-11-13T17:45:46Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2121008352595435756",
-   "url": "https://x.com/GuntherEagleman/status/2121008352595435756",
-   "text": "🚨 LMAO! Elizabeth Warren just posted \"Enough is enough\" and is demanding a ban on the president and Congress trading stocks.\n\nShe claims President Trump has made more than 31,000 trades. \n\nCute. Now check the receipts.\n\n",
-   "views": 111208,
-   "likes": 8605,
-   "created_at": "2026-11-12T22:32:52Z",
+   "id": "2121362032469434809",
+   "url": "https://x.com/GuntherEagleman/status/2121362032469434809",
+   "text": "🚨 NOW: It is being reported that an ACTIVE TERROR THREAT is OFF THE TABLE in the nationwide ground stop. \n\nThat's a big relief, but the hard part has just started.\n\nThousands of flights still in the air have to be brough",
+   "views": 401455,
+   "likes": 1752,
+   "created_at": "2026-11-13T21:58:16Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120920209045246005",
-   "url": "https://x.com/GuntherEagleman/status/2120920209045246005",
-   "text": "🚨 BOOM: Karoline Leavitt just set the record straight on Stephen Miller, and the left is going to HATE it.\n\nIn her first appearance as a Fox News contributor, she said the fake news has Miller COMPLETELY WRONG.\n\nHer word",
-   "views": 111044,
-   "likes": 4981,
-   "created_at": "2026-11-12T16:42:37Z",
+   "id": "2121626752225046638",
+   "url": "https://x.com/GuntherEagleman/status/2121626752225046638",
+   "text": "🚨 WOW: Mike Johnson is leaving the Speaker's chair as BROKE AS THE DAY HE GOT THERE.\n\nBefore he became Speaker, Johnson SLEPT IN HIS OFFICE, and Bloomberg reports his humble finances haven't changed. In a town full of po",
+   "views": 387827,
+   "likes": 9235,
+   "created_at": "2026-11-14T15:30:10Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2121215226913644877",
-   "url": "https://x.com/GuntherEagleman/status/2121215226913644877",
-   "text": "🚨 WOW! A pickup truck was caught on video rolling through SCOTTSDALE, ARIZONA with RED AND BLUE FLASHING LIGHTS on the side and the roof. \n\nThe person who posted the video says the decals show IRAQ'S COAT OF ARMS and Ara",
-   "views": 98469,
-   "likes": 3808,
-   "created_at": "2026-11-13T12:14:55Z",
+   "id": "2122090790553853968",
+   "url": "https://x.com/GuntherEagleman/status/2122090790553853968",
+   "text": "🚨 BREAKING: Iran just launched a DRONE ATTACK on a U.S. military base in Bahrain, and American air defenses SHOT DOWN every drone. \n\nIt's Iran's second attempt to attack the country in the past THREE DAYS.\n\nReports say I",
+   "views": 378993,
+   "likes": 12183,
+   "created_at": "2026-11-15T22:14:05Z",
+   "star": true
+  },
+  {
+   "handle": "@rawsalerts",
+   "id": "2121966259679936588",
+   "url": "https://x.com/rawsalerts/status/2121966259679936588",
+   "text": "🚨 #BREAKING: Bitly links hijacked, resulting in brands linking to unhinged things. https://t.co/ohtg8Z1IkM",
+   "views": 357580,
+   "likes": 4506,
+   "created_at": "2026-11-15T13:59:15Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120970133862850960",
-   "url": "https://x.com/GuntherEagleman/status/2120970133862850960",
-   "text": "🚨 LMAO! Mike Pence just went on Fox and blamed President Trump for the midterms, then he COULDN'T BACK IT UP.\n\nHe talked about an \"air of corruption\" and \"self-dealing.\"\n\nWhen they asked if the First Family actually prof",
-   "views": 92043,
-   "likes": 943,
-   "created_at": "2026-11-12T20:01:00Z",
+   "id": "2121374095358972019",
+   "url": "https://x.com/GuntherEagleman/status/2121374095358972019",
+   "text": "Americans need to understand just how serious this nationwide FAA ground stop could become.\n\nIf flights remain grounded overnight, the consequences could ripple across the ENTIRE COUNTRY.\n\nFamilies stranded. Medical ship",
+   "views": 352453,
+   "likes": 2300,
+   "created_at": "2026-11-13T22:46:12Z",
+   "star": true
+  },
+  {
+   "handle": "@rawsalerts",
+   "id": "2121590700944904642",
+   "url": "https://x.com/rawsalerts/status/2121590700944904642",
+   "text": "🚨#BREAKING: Man traveling with the massive migrant caravan says friends in the U.S. told him Democrats’ election wins could give deported migrants a chance to return.",
+   "views": 322985,
+   "likes": 2402,
+   "created_at": "2026-11-14T13:06:55Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120990883256336409",
-   "url": "https://x.com/GuntherEagleman/status/2120990883256336409",
-   "text": "🚨 WOW! A reporter tried to trap Attorney General Todd Blanche on free speech, and he shut it down.\n\nBlanche made it clear: \"FREE SPEECH IS ALLOWED.\" You can criticize him, the administration and President Trump all you w",
-   "views": 90812,
-   "likes": 5009,
-   "created_at": "2026-11-12T21:23:27Z",
+   "id": "2121305594107941094",
+   "url": "https://x.com/GuntherEagleman/status/2121305594107941094",
+   "text": "🚨 HOLY CRAP! They had U.S. Navy sailors CLIPPING TOENAILS on Capitol Hill. \n\nSailors assigned to Congress's medical office told Military Times they were put on jobs that didn't fit the uniform. \n\nThey say that included C",
+   "views": 322424,
+   "likes": 17919,
+   "created_at": "2026-11-13T18:14:00Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2121036142417969606",
-   "url": "https://x.com/GuntherEagleman/status/2121036142417969606",
-   "text": "🔥 WOW! Hugh Hewitt just sent President Trump a message after their interview today, and Trump shared it.\n\n\"President Trump was as good as he has ever been today. STILL THE BEST INTERVIEW IN THE COUNTRY.\" \n\nEighty years o",
-   "views": 81122,
-   "likes": 6863,
-   "created_at": "2026-11-13T00:23:17Z",
+   "id": "2121434222887932165",
+   "url": "https://x.com/GuntherEagleman/status/2121434222887932165",
+   "text": "Hey @Grok, will the UT vs LSU game be played tomorrow?",
+   "views": 313097,
+   "likes": 240,
+   "created_at": "2026-11-14T02:45:07Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120923840750530817",
-   "url": "https://x.com/GuntherEagleman/status/2120923840750530817",
-   "text": "The fraud allegations involving 340B are ugly, and violations keep turning up in federal audits. Good for the Trump administration for pushing reform. The revised pilot deserves a chance to deliver. https://t.co/lE6DfO4Q",
-   "views": 78913,
-   "likes": 220,
-   "created_at": "2026-11-12T16:57:03Z",
+   "id": "2121356124142334214",
+   "url": "https://x.com/GuntherEagleman/status/2121356124142334214",
+   "text": "Democrats win the midterms and now all flights are grounded. \n\n🤔",
+   "views": 308199,
+   "likes": 607,
+   "created_at": "2026-11-13T21:34:47Z",
    "star": true
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2121027299244216379",
-   "url": "https://x.com/GuntherEagleman/status/2121027299244216379",
-   "text": "What kind of Senate Leader says he is a fighter then recesses for a 3 day weekend…?",
-   "views": 73112,
-   "likes": 6527,
-   "created_at": "2026-11-12T23:48:09Z",
-   "star": true
-  },
-  {
-   "handle": "@alx",
-   "id": "2121050328837824986",
-   "url": "https://x.com/alx/status/2121050328837824986",
-   "text": "Tomorrow is Doomsday?",
-   "views": 72391,
-   "likes": 657,
-   "created_at": "2026-11-13T01:19:40Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2120923114351538453",
-   "url": "https://x.com/GuntherEagleman/status/2120923114351538453",
-   "text": "🚨 WOW! Rep. Tim Burchett is LIGHTING UP the Senate for sitting on his bill to stop American money from reaching the TALIBAN.\n\nThe House already passed the No Tax Dollars for Terrorists Act.\n\nBurchett says about $40 MILLI",
-   "views": 71507,
-   "likes": 6799,
-   "created_at": "2026-11-12T16:54:09Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2120951028594204783",
-   "url": "https://x.com/GuntherEagleman/status/2120951028594204783",
-   "text": "🚨 LMAO! Chuck Schumer just said he wants to END CORRUPTION in the United States, and President Trump took him up on it.\n\nTrump says he assumes Schumer means the Democrat-run BLUE STATES: California, Minnesota, Illinois, ",
-   "views": 69510,
-   "likes": 7329,
-   "created_at": "2026-11-12T18:45:05Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2121220117170147511",
-   "url": "https://x.com/GuntherEagleman/status/2121220117170147511",
-   "text": "🚨 BOOM: Jimmy Kimmel tried to get Arnold Schwarzenegger to turn on the GOP, and it BACKFIRED. \n\nWhen Kimmel pressed him, Arnold said he is \"ABSOLUTELY\" still a Republican.\nHe said he admires the Republican Party \"for hav",
-   "views": 66672,
-   "likes": 2231,
-   "created_at": "2026-11-13T12:34:20Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2121033287733006815",
-   "url": "https://x.com/GuntherEagleman/status/2121033287733006815",
-   "text": "Here we go again. Now they’re going to try to force Americans to apologize to Islam. \n\nGive me a break. We’re not apologizing for a damn thing. https://t.co/tMJypARutK",
-   "views": 64673,
-   "likes": 2622,
-   "created_at": "2026-11-13T00:11:57Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2121042910766338370",
-   "url": "https://x.com/GuntherEagleman/status/2121042910766338370",
-   "text": "🚨 BOOM: Secretary Pete Hegseth just posted \"THE OSS IS BACK.\" \n\nHe's moving to elevate special operations by renaming the top civilian office after the World War II Office of Strategic Services, the legendary unit that t",
-   "views": 62546,
-   "likes": 3221,
-   "created_at": "2026-11-13T00:50:11Z",
-   "star": true
-  },
-  {
-   "handle": "@GuntherEagleman",
-   "id": "2121044349534302459",
-   "url": "https://x.com/GuntherEagleman/status/2121044349534302459",
-   "text": "🚨 LMAO! John Thune is sending the Senate home for a THREE-DAY WEEKEND with less than two months left before Democrats take over.\n\nStarting January 3rd, NOT ONE MORE conservative judge gets confirmed. \n\nRon DeSantis said ",
-   "views": 62285,
-   "likes": 3395,
-   "created_at": "2026-11-13T00:55:54Z",
+   "id": "2121985430161703351",
+   "url": "https://x.com/GuntherEagleman/status/2121985430161703351",
+   "text": "🚨 HOLY CRAP! Scott Bessent just said Nvidia needs a NEW LEADER FROM OUTSIDE THE COMPANY. \n\nBessent says President Trump drew a hard line. Nothing above Nvidia's H-200, a mid-level chip, can be sold to China.\n\nThen he lai",
+   "views": 288761,
+   "likes": 1324,
+   "created_at": "2026-11-15T15:15:25Z",
    "star": true,
-   "draft": "The Senate's next recorded vote is Monday at 5:30 p.m.\n\nAbout 160 Trump nominees and two dozen judges are reportedly still waiting, and there are 51 days until January 3.\n\nIf you could force one confirmation vote before the Senate flips, who goes first?",
-   "video_tip": "10s: a countdown clock reading '51 DAYS' over an empty Senate chamber, then a stack of folders labeled 'NOMINEES'. End card: 'Who goes first?' Asks for an answer instead of venting about Thune, so it gets replies."
+   "draft": "Bessent says Nvidia needs a leader from outside the company, and nothing above the H200 gets sold to China.\n\nThat's the real Nvidia story. Not the rumors.\n\nWhoever runs the company that makes America's AI chips is now a national security decision.",
+   "video_tip": "12s: a GPU chip on black, with a red line drawn across it at 'H200' and a China flag fading out past the line. Then the CEO chair sits empty under a 'Who's next?' title. Calm voiceover stands out next to the gossip posts."
   },
   {
    "handle": "@GuntherEagleman",
-   "id": "2120991325763879300",
-   "url": "https://x.com/GuntherEagleman/status/2120991325763879300",
-   "text": "🚨 JUST IN: Attorney General Todd Blanche says Trump's DOJ has charged close to 300 PEOPLE with ILLEGAL VOTING.\n\nSome are here illegally. Others were simply not eligible to vote.\n\nBlanche says there are HUNDREDS of ongoin",
-   "views": 61553,
-   "likes": 1299,
-   "created_at": "2026-11-12T21:25:12Z",
+   "id": "2121952979624370655",
+   "url": "https://x.com/GuntherEagleman/status/2121952979624370655",
+   "text": "🚨 BOOM! Aaron Reitz just put Elizabeth Warren ON NOTICE. \n\nWarren went on Face the Nation and promised \"serious\" investigations into CEOs and private citizens close to President Trump.\n\nReitz fired back with a formal pre",
+   "views": 285238,
+   "likes": 24318,
+   "created_at": "2026-11-15T13:06:28Z",
    "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2121743445018444204",
+   "url": "https://x.com/GuntherEagleman/status/2121743445018444204",
+   "text": "🚨 SCHIFF DARED HIM. REITZ TOOK THE DARE.\n\nAdam Schiff says no prosecutor will \"put their name\" on going after Democrats for their lawfare threats.\n\nHouston's U.S. Attorney Aaron Reitz fired back: \"I PUT MY NAME ON IT.\"\n\n",
+   "views": 280900,
+   "likes": 17713,
+   "created_at": "2026-11-14T23:13:52Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2121401509355176038",
+   "url": "https://x.com/GuntherEagleman/status/2121401509355176038",
+   "text": "🚨 JUST IN: Secretary of State Marco Rubio has RUSHED BACK to the White House as the aviation crisis drags into Friday night.\n\nRubio left a speech across town to return. That almost never happens this late on a Friday.\n\nD",
+   "views": 278963,
+   "likes": 5816,
+   "created_at": "2026-11-14T00:35:08Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2121974898239172754",
+   "url": "https://x.com/GuntherEagleman/status/2121974898239172754",
+   "text": "🚨 LMAO! Dana Bash just tried to claim Trump went MISSING during the nationwide ground stop, and Sean Duffy torched the whole narrative on live TV. \n\nBash complained that Americans didn't hear from Trump for \"a day and a ",
+   "views": 276616,
+   "likes": 14334,
+   "created_at": "2026-11-15T14:33:34Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2121631094218924377",
+   "url": "https://x.com/GuntherEagleman/status/2121631094218924377",
+   "text": "🚨 BOOM: John Fetterman just hinted he could WALK AWAY FROM THE DEMOCRAT PARTY.\n\nFox's Kayleigh McEnany asked Fetterman if he has a red line. He said \"YEAH, ABSOLUTELY,\" and he'd be troubled if his caucus picked Chris Van",
+   "views": 268084,
+   "likes": 633,
+   "created_at": "2026-11-14T15:47:25Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2121422875500458277",
+   "url": "https://x.com/GuntherEagleman/status/2121422875500458277",
+   "text": "🚨 WOW: Sean Duffy just did something you NEVER see in Washington. He TOOK THE BLAME.\n\nDuffy says today's ground stop was NOT THE AIRLINES' FAULT. He says it was the FAA and a legacy air traffic system that failed.\n\nRadar",
+   "views": 264485,
+   "likes": 9761,
+   "created_at": "2026-11-14T02:00:02Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2122160442273398859",
+   "url": "https://x.com/GuntherEagleman/status/2122160442273398859",
+   "text": "🚨 PRESIDENT TRUMP JUST POSTED THIS. \n\nRow after row of soldiers on one knee, heads bowed, with \"Jesus on my mind, all the time\" playing over it.\n\nNo speech. No politics. Just faith and the men and women who defend this c",
+   "views": 262189,
+   "likes": 20754,
+   "created_at": "2026-11-16T02:50:51Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2121350166720450916",
+   "url": "https://x.com/GuntherEagleman/status/2121350166720450916",
+   "text": "🚨 BREAKING: The FAA has issued a NATIONWIDE GROUND STOP for ALL U.S. AIRPORTS. \n\nFlights across the entire country are stuck on the ground right now.\n\nThere's no word yet on what caused it.\nIf you're flying today, check ",
+   "views": 258456,
+   "likes": 2519,
+   "created_at": "2026-11-13T21:11:07Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2122129762525097985",
+   "url": "https://x.com/GuntherEagleman/status/2122129762525097985",
+   "text": "🚨 HOLY CRAP! Hillary Clinton just laid out the Democrats' LAWFARE PLAYBOOK on live TV, and she didn't even pretend to hide it. \n\nHer plan: if the DOJ won't go after Trump's people, Democrats will run them to STATE PROSEC",
+   "views": 257329,
+   "likes": 10566,
+   "created_at": "2026-11-16T00:48:57Z",
+   "star": true
+  },
+  {
+   "handle": "@GuntherEagleman",
+   "id": "2121958353069097132",
+   "url": "https://x.com/GuntherEagleman/status/2121958353069097132",
+   "text": "There should never be a closed door secret vote in the Senate. \n\nAmericans deserve transparency. We PAY for it.",
+   "views": 74449,
+   "likes": 13591,
+   "created_at": "2026-11-15T13:27:50Z",
+   "star": true,
+   "draft": "Senate leadership votes should be on the record. Every one.\n\nIf a senator backed John Thune behind closed doors, they should be willing to say so in public.\n\nWe pay their salaries. We should know how they voted.",
+   "video_tip": "8s: a closed wooden door with a 'SECRET BALLOT' placard, then the door swings open on a blank roll-call board. Text: 'Show the votes.' One-liners on Thune did 11-18% like rates, so keep it short and let it get quoted."
   }
  ],
  "outsiders": [
   {
-   "handle": "@testingcatalog",
-   "id": "2120809757107737072",
-   "url": "https://x.com/testingcatalog/status/2120809757107737072",
-   "text": "DAILY AI BRIEF 🗞 — Nov 12\n\nGOOGLE 🔥:\n- Gemini Decision 1 is live in the Gemini API and AI Studio, scoring up to 1,000 questions per call at ",
-   "views": 23886,
-   "likes": 141,
-   "created_at": "2026-11-12T09:23:43.000Z",
+   "handle": "@elonmusk",
+   "id": "2121770874885845044",
+   "url": "https://x.com/elonmusk/status/2121770874885845044",
+   "text": "Try Grok @Bot https://t.co/wupzwF1bkE",
+   "views": 2601352,
+   "likes": 12165,
+   "created_at": "2026-11-15T01:02:51.000Z",
+   "topic": "Grok / xAI chatter"
+  },
+  {
+   "handle": "@elonmusk",
+   "id": "2121644169462681818",
+   "url": "https://x.com/elonmusk/status/2121644169462681818",
+   "text": "Text watermarking with Grok is only on where required by law or requested by the user https://t.co/GbSxfeRShc",
+   "views": 1882798,
+   "likes": 11068,
+   "created_at": "2026-11-14T16:39:22.000Z",
+   "topic": "Grok / xAI chatter"
+  },
+  {
+   "handle": "@elonmusk",
+   "id": "2122164224382447808",
+   "url": "https://x.com/elonmusk/status/2122164224382447808",
+   "text": "Grok @Bot can do almost anything https://t.co/jLMOWxLTNF",
+   "views": 1189691,
+   "likes": 7385,
+   "created_at": "2026-11-16T03:05:53.000Z",
+   "topic": "Grok / xAI chatter"
+  },
+  {
+   "handle": "@OpenAI",
+   "id": "2122123437141553630",
+   "url": "https://x.com/OpenAI/status/2122123437141553630",
+   "text": "Physicist Nathaniel Craig shares how he worked with GPT-6 Astra to develop a candidate lattice definition of the Standard Model.\n\nIt’s the f",
+   "views": 654868,
+   "likes": 3330,
+   "created_at": "2026-11-16T00:23:49.000Z",
+   "topic": "Model race / benchmarks"
+  },
+  {
+   "handle": "@kimmonismus",
+   "id": "2121929485951836640",
+   "url": "https://x.com/kimmonismus/status/2121929485951836640",
+   "text": "Talking about acceleration: In 13 months, the best AI agent went from completing 2.5% of real freelance projects on the Remote Labor Index t",
+   "views": 124817,
+   "likes": 1451,
+   "created_at": "2026-11-15T11:33:07.000Z",
+   "topic": "Model race / benchmarks"
+  },
+  {
+   "handle": "@kimmonismus",
+   "id": "2122163929736794622",
+   "url": "https://x.com/kimmonismus/status/2122163929736794622",
+   "text": "Now we are talking: An Anthropic researcher says broadly superhuman AI could be just 1.3 years away. https://t.co/3E7W4xlzw0",
+   "views": 95210,
+   "likes": 1917,
+   "created_at": "2026-11-16T03:04:43.000Z",
+   "topic": "AI general"
+  },
+  {
+   "handle": "@kimmonismus",
+   "id": "2122158282622324913",
+   "url": "https://x.com/kimmonismus/status/2122158282622324913",
+   "text": "Interesting release: Qwen has launched Qwen4-Max, their new AI model with native vision and a 1 million-token context window. \n\nOutperforms ",
+   "views": 44965,
+   "likes": 819,
+   "created_at": "2026-11-16T02:42:17.000Z",
+   "topic": "Model race / benchmarks"
+  },
+  {
+   "handle": "@kimmonismus",
+   "id": "2121863270403309975",
+   "url": "https://x.com/kimmonismus/status/2121863270403309975",
+   "text": "METR reports are always worth reading. Just finished reading their latest Substack. If you want to understand how much ahead the US is regar",
+   "views": 33936,
+   "likes": 526,
+   "created_at": "2026-11-15T07:10:00.000Z",
+   "topic": "AI/tech market selloff"
+  },
+  {
+   "handle": "@kimmonismus",
+   "id": "2122050260445118742",
+   "url": "https://x.com/kimmonismus/status/2122050260445118742",
+   "text": "AI is changing scientific research. We already know that. But those numbers are interesting: More than a third (38%) of new arXiv papers now",
+   "views": 25149,
+   "likes": 422,
+   "created_at": "2026-11-15T19:33:02.000Z",
+   "topic": "AI general"
+  },
+  {
+   "handle": "@kimmonismus",
+   "id": "2122325062531604670",
+   "url": "https://x.com/kimmonismus/status/2122325062531604670",
+   "text": "\"Silicon 2\" reportedly surfaced in Devin. @chetaslua suspects an Anthropic model. \n\nThe entry sits among Claude models and uses $10/$50 plac",
+   "views": 23128,
+   "likes": 347,
+   "created_at": "2026-11-16T13:45:00.000Z",
    "topic": "Model race / benchmarks"
   },
   {
    "handle": "@testingcatalog",
-   "id": "2121185887337820440",
-   "url": "https://x.com/testingcatalog/status/2121185887337820440",
-   "text": "DAILY AI BRIEF 🗞 — Nov 13\n\nGOOGLE 🔥:\n- Gemini 4 Hydrogen is out in the Gemini app, Search, AI Studio, and the API at $1.50/$7.50 per 1M toke",
-   "views": 10810,
-   "likes": 119,
-   "created_at": "2026-11-13T10:18:19.000Z",
+   "id": "2122006928826257731",
+   "url": "https://x.com/testingcatalog/status/2122006928826257731",
+   "text": "APPLE 🔥: According to Bloomberg, “Siri AI integrations are the centrepiece of the upcoming smart glasses push” for Apple. \n\nIt also seems li",
+   "views": 20944,
+   "likes": 394,
+   "created_at": "2026-11-15T16:40:51.000Z",
+   "topic": "AI general"
+  },
+  {
+   "handle": "@testingcatalog",
+   "id": "2121636249903710411",
+   "url": "https://x.com/testingcatalog/status/2121636249903710411",
+   "text": "SPACEXSI 🔥: Grok Bot now has 7% more usage on paid plans and up to 15% on scheduled runs, according to Grok Bot team. \n\nTime to test these o",
+   "views": 20367,
+   "likes": 320,
+   "created_at": "2026-11-14T16:07:54.000Z",
+   "topic": "Grok / xAI chatter"
+  },
+  {
+   "handle": "@kimmonismus",
+   "id": "2121839072805056538",
+   "url": "https://x.com/kimmonismus/status/2121839072805056538",
+   "text": "On my way to Microsoft Ignite in San Francisco. Plane departs in 2 hours. \n\nSome time to read books about the future of AI. Super excited fo",
+   "views": 16307,
+   "likes": 148,
+   "created_at": "2026-11-15T05:33:51.000Z",
+   "topic": "AI general"
+  },
+  {
+   "handle": "@testingcatalog",
+   "id": "2122238075426275745",
+   "url": "https://x.com/testingcatalog/status/2122238075426275745",
+   "text": "ALIBABA 🔥: Qwen4-Max benchmarks are out, and it scored 43 points on the Artificial Analysis Index, one point below Muse Wonder. \n\nQwen4-Max ",
+   "views": 13667,
+   "likes": 227,
+   "created_at": "2026-11-16T07:59:21.000Z",
    "topic": "Model race / benchmarks"
   },
   {
-   "handle": "@WojakTheDev",
-   "id": "2120952365121737096",
-   "url": "https://x.com/WojakTheDev/status/2120952365121737096",
-   "text": "Free Claude Fable, GPT-6.1 and Gemini 4 every day. No card 😳\n\nCoArena gives you $5 of free model usage daily, on one API key.\n\n- 22 models i",
-   "views": 2533,
-   "likes": 32,
-   "created_at": "2026-11-12T18:50:23.000Z",
-   "topic": "Model race / benchmarks"
+   "handle": "@testingcatalog",
+   "id": "2122255419099803817",
+   "url": "https://x.com/testingcatalog/status/2122255419099803817",
+   "text": "DAILY AI BRIEF 🗞 — Nov 16\n\nALIBABA 🔥:\n- Qwen4-Max is out, a 2.4T MoE model with native vision and 1M context at $1.50/$4.50 per 1M tokens.\n\n",
+   "views": 12822,
+   "likes": 138,
+   "created_at": "2026-11-16T09:08:16.000Z",
+   "topic": "AI general"
   },
   {
-   "handle": "@theadnaankhan",
-   "id": "2120890364764557352",
-   "url": "https://x.com/theadnaankhan/status/2120890364764557352",
-   "text": "everything that launched and happened in ai in 2026, jan 1 to now (seems like atleast years). this is like not even half of it!!!!!\n\njanuary",
-   "views": 1609,
-   "likes": 5,
-   "created_at": "2026-11-12T14:44:01.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@AnotherCodingX",
-   "id": "2121232341481955435",
-   "url": "https://x.com/AnotherCodingX/status/2121232341481955435",
-   "text": "Gemini 4 Hydrogen outruns Google's frontier Argon model, Jensen Huang's resignation at Nvidia is confirmed, Axiom machine-verifies Faltings'",
-   "views": 1180,
-   "likes": 4,
-   "created_at": "2026-11-13T13:22:55.000Z",
+   "handle": "@crypto_banter",
+   "id": "2122225970056712275",
+   "url": "https://x.com/crypto_banter/status/2122225970056712275",
+   "text": "🚨TRUMP ADMINISTRATION PLANS TO NAME NVIDIA AND OVER TWO DOZEN OTHER AI FIRMS AS U.S. ‘NATIONAL CHAMPIONS’!\n\nThe Trump administration intends",
+   "views": 11060,
+   "likes": 61,
+   "created_at": "2026-11-16T07:11:14.000Z",
    "topic": "Nvidia / Jensen Huang"
   },
   {
-   "handle": "@notlikeryo_",
-   "id": "2121169843663601986",
-   "url": "https://x.com/notlikeryo_/status/2121169843663601986",
-   "text": "this week in AI, Nov 9 to 13:\n\nmon\n&gt; Claude Fable 5.2 and Mythos 5.2\n&gt; Meta Muse Ember\n&gt; OpenAI dots on multiple computers\n\ntue\n&gt",
-   "views": 619,
-   "likes": 11,
-   "created_at": "2026-11-13T09:14:34.000Z",
-   "topic": "Nvidia / Jensen Huang"
+   "handle": "@e_opore",
+   "id": "2122002975912526242",
+   "url": "https://x.com/e_opore/status/2122002975912526242",
+   "text": "PROMPT ENGINEER ROADMAP 2026\n\nWant to become a Prompt Engineer in the AI era?\n\n1. AI Fundamentals\n\n- Artificial Intelligence\n- Machine Learn",
+   "views": 7831,
+   "likes": 125,
+   "created_at": "2026-11-15T16:25:09.000Z",
+   "topic": "AI general"
   },
   {
-   "handle": "@themacrosift",
-   "id": "2120595138779238716",
-   "url": "https://x.com/themacrosift/status/2120595138779238716",
-   "text": "DAILY AI BRIEF 📰 Wed, Nov 11\n\nAnthropic's IPO is reportedly already oversubscribed, DeepMind shipped AlphaGenome 2, and ByteDance is buildin",
-   "views": 498,
+   "handle": "@SmolfSmolf7",
+   "id": "2121803424480346324",
+   "url": "https://x.com/SmolfSmolf7/status/2121803424480346324",
+   "text": "TEN STRANGE DAYS: WHAT IS HAPPENING IN THE WORLD?\n\nParalyzed banks, a global technological breakdown, unusual government maneuvers, and grow",
+   "views": 6769,
+   "likes": 138,
+   "created_at": "2026-11-15T03:12:12.000Z",
+   "topic": "AI general"
+  },
+  {
+   "handle": "@Sloimay",
+   "id": "2121970144083599721",
+   "url": "https://x.com/Sloimay/status/2121970144083599721",
+   "text": "i have now muted the words \"ai\" \"artificial intelligence\" \"chatgpt\" \"gpt\" \"claude\" \"gemini\" etc.. i will now *genuinely* do my best to prete",
+   "views": 1363,
+   "likes": 66,
+   "created_at": "2026-11-15T14:14:41.000Z",
+   "topic": "Model race / benchmarks"
+  },
+  {
+   "handle": "@TeslaZoa",
+   "id": "2122182771905036715",
+   "url": "https://x.com/TeslaZoa/status/2122182771905036715",
+   "text": "According to The Wall Street Journal, the Trump administration plans to designate Nvidia as one of America’s “National Champions” in artific",
+   "views": 758,
    "likes": 3,
-   "created_at": "2026-11-11T19:10:54.000Z",
-   "topic": "AI general"
-  },
-  {
-   "handle": "@RealCamV",
-   "id": "2120618175062790542",
-   "url": "https://x.com/RealCamV/status/2120618175062790542",
-   "text": "Anthropic is setting a seriously high bar for agentic AI. 🚀\n\nClaude Fable 5.2 takes #1 across Code, Chat and Work, with a massive +30.4% net",
-   "views": 437,
-   "likes": 13,
-   "created_at": "2026-11-11T20:42:26.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@MrmartinsGaze",
-   "id": "2120571014748741835",
-   "url": "https://x.com/MrmartinsGaze/status/2120571014748741835",
-   "text": "Wed 11.11.2026 🔭\n\n📈 🇺🇸 Report (Bloomberg, FT): Anthropic's IPO is \"multiple times\" oversubscribed and bankers weigh pricing above the $70–78",
-   "views": 435,
-   "likes": 0,
-   "created_at": "2026-11-11T17:35:02.000Z",
-   "topic": "AI general"
-  },
-  {
-   "handle": "@SISpotlight",
-   "id": "2120725208025772372",
-   "url": "https://x.com/SISpotlight/status/2120725208025772372",
-   "text": "📰 𝗜𝗖𝗬𝗠𝗜: 𝗪𝗲𝗱, 𝗡𝗼𝘃 𝟭𝟭 𝗔𝗜 𝗡𝗲𝘄𝘀 𝗥𝗲𝗰𝗮𝗽\n\n18 posts today. Here's the full run.\n\n🧠 Models and launches\n- @Google's AlphaGenome 2 Reads DNA One Cell",
-   "views": 396,
-   "likes": 4,
-   "created_at": "2026-11-12T03:47:45.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@webtkdev",
-   "id": "2120720747383624002",
-   "url": "https://x.com/webtkdev/status/2120720747383624002",
-   "text": "Top 10 AI highlights from the last 24 hours (Nov 12):\nNvidia, xAI, Anthropic, Google, AWS, Baidu, Alibaba, Databricks.\n\n1. Nvidia: WSJ repor",
-   "views": 361,
-   "likes": 0,
-   "created_at": "2026-11-12T03:30:01.000Z",
+   "created_at": "2026-11-16T04:19:35.000Z",
    "topic": "Nvidia / Jensen Huang"
-  },
-  {
-   "handle": "@PromptHex",
-   "id": "2121186778359202086",
-   "url": "https://x.com/PromptHex/status/2121186778359202086",
-   "text": "DAILY AI BRIEF 🗞 — Nov 13\n\nGOOGLE 🔥:\n- Gemini 4 Hydrogen is out in the Gemini app, Search, AI Studio and the API at $1.50/$7.50 per 1M token",
-   "views": 287,
-   "likes": 2,
-   "created_at": "2026-11-13T10:21:52.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@AkashElhan37908",
-   "id": "2121085126662824444",
-   "url": "https://x.com/AkashElhan37908/status/2121085126662824444",
-   "text": "The AI race is getting absolutely insane. 🤯\n\nJust look at this week:\n\nMonday → Anthropic released Claude Fable 5.2.\n\nTuesday → Google launch",
-   "views": 233,
-   "likes": 1,
-   "created_at": "2026-11-13T03:37:56.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@webtkdev",
-   "id": "2121083133596782812",
-   "url": "https://x.com/webtkdev/status/2121083133596782812",
-   "text": "Top 10 AI highlights from the last 24 hours (Nov 13):\nNvidia, Anthropic, Google, OpenAI, SpaceX, Retell, Simular.\n\n1. Nvidia: Jensen Huang r",
-   "views": 217,
-   "likes": 0,
-   "created_at": "2026-11-13T03:30:01.000Z",
-   "topic": "Nvidia / Jensen Huang"
-  },
-  {
-   "handle": "@arcanematrix",
-   "id": "2121074806309241186",
-   "url": "https://x.com/arcanematrix/status/2121074806309241186",
-   "text": "ArcaneMatrix · AI Brief 11/13\n\nHeadlines\n• Google launched Gemini 4 Hydrogen.\n• Google Antigravity added an Orchestrator option.\n• Jensen Hu",
-   "views": 198,
-   "likes": 0,
-   "created_at": "2026-11-13T02:56:56.000Z",
-   "topic": "Nvidia / Jensen Huang"
-  },
-  {
-   "handle": "@WilsonLiu123",
-   "id": "2121050661898838106",
-   "url": "https://x.com/WilsonLiu123/status/2121050661898838106",
-   "text": "Today's X AI heat ranking (by views)\n\n1 Claude Fable 5.2 &amp; Mythos 5.2 launch — 18.2M (95.7k likes) · still #1\nhttps://t.co/mDSdvzvEJf\n\n2",
-   "views": 173,
-   "likes": 0,
-   "created_at": "2026-11-13T01:20:59.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@WilsonLiu123",
-   "id": "2120689920037593567",
-   "url": "https://x.com/WilsonLiu123/status/2120689920037593567",
-   "text": "Today's X AI heat ranking (by views)\n\n1 Claude Fable 5.2 &amp; Mythos 5.2 launch — 17.6M (95.4k likes) · holds #1\nhttps://t.co/mDSdvzvEJf\n\n2",
-   "views": 150,
-   "likes": 0,
-   "created_at": "2026-11-12T01:27:32.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@zazmic_inc",
-   "id": "2120577866312433707",
-   "url": "https://x.com/zazmic_inc/status/2120577866312433707",
-   "text": "It never stops......  😊 \n\nAI labs weekly roundup: Nov 1–8 🚀 \n\nSecurity was the big theme this week: OpenAI launched GPT-6 Cyber, DeepMind fo",
-   "views": 122,
-   "likes": 1,
-   "created_at": "2026-11-11T18:02:16.000Z",
-   "topic": "Model race / benchmarks"
-  },
-  {
-   "handle": "@JamesDelotis",
-   "id": "2121190704495857724",
-   "url": "https://x.com/JamesDelotis/status/2121190704495857724",
-   "text": "Morning Ai News\n\nHere is the AI news for November 13. Not thin.\n\n**Nvidia leadership change**  \nJensen Huang resigned as Nvidia’s CEO, presi",
-   "views": 119,
-   "likes": 0,
-   "created_at": "2026-11-13T10:37:28.000Z",
-   "topic": "Nvidia / Jensen Huang"
-  },
-  {
-   "handle": "@HochstatMichael",
-   "id": "2120858975348408452",
-   "url": "https://x.com/HochstatMichael/status/2120858975348408452",
-   "text": "“Been battling ChatGPT and Claude all day. It’s LLM vs. LLM, and somehow I’m the one losing tokens.”\n\nOr a little more savage:\n\n“Got ChatGPT",
-   "views": 94,
-   "likes": 0,
-   "created_at": "2026-11-12T12:39:18.000Z",
-   "topic": "Model race / benchmarks"
   }
  ],
  "patterns": [
-  "Jensen Huang / Nvidia was the biggest story again, mostly on rawsalerts' one-line #BREAKING rumor posts: 2 hits (~1.46M views) at 1.7%. 'Rumors of Jensen Huang having a fourth affair' was the #1 post at ~1.03M (1.4%), and 'Hundreds of women working at NVIDIA beg the board to reinstate' got ~436k (2.5%). alx tied it to other topics ('Satoshi Nakamoto had an affair?' ~16k)",
-  "The Microsoft Outlook/Teams outage gave Gunther two of his biggest posts, both reach with few likes: 3 hits (~838k) at 1.2%. 'Massive Microsoft outage' got ~421k (0.5%) and 'DOWN FOR NEARLY 17 HOURS' got ~378k (1.9%). His personal 'My Outlook is broken... Calling it a day' got ~39k",
-  "Anger at John Thune was the biggest political thread: 20 hits (~783k) at a strong 6.6%. The story was the Senate going home for a three-day weekend. Short one-liners had the best like rates ('BIGGEST mistake in GOP Senate history' ~48k at 13.1%, '4 day vacation' ~34k at 12.6%, '2 1/2 day work week' ~45k at 10.7%)",
-  "Gunther's 'Hey @grok' questions kept the reach with almost no likes: 7 hits (~628k) at 0.3%. The ones that asked Grok about itself did best ('the one question you wish someone would ask you' ~317k, 'most powerful country in 50 years' ~172k)",
-  "Midterm fraud/audit claims: 7 hits (~620k) at 4.5%. 'So much for the so-called Blue Wave' got ~285k (4.8%) and 'The whole damn country knows they cheated' got ~123k (8.7%)",
-  "Posts that flip the left's own move back on them had the best mix of reach and likes: Blumenthal 'taste of his own medicine' ~326k (9.1%), the lobster-pain ban ~206k (11.4%), WaPo vs Rubio's son's football games ~197k (9.1%), Warren stock-trading ban ~111k (7.7%), Schumer 'end corruption' ~70k (10.5%)",
-  "Breaking crime/disaster news got reach but low like rates: the D.C. gym shooter ID (rawsalerts ~418k at 0.8%, Gunther ~39k). The '69 Mustang Vietnam-vet story got ~38k for Gunther, while the original source post it quoted passed 748k"
+  "The nationwide FAA ground stop took over the weekend: 87 hits (~17.9M views, about 41% of the window) at a 1.5% like rate. Gunther's 'Sean Duffy laid out EXACTLY what happened' was #1 at ~3.12M, the stranded-traveler '$850 Lyft to Indiana' story got ~2.61M, and 'NBC reporter tried to blame Trump, Duffy shut her down' got ~1.89M at 3.1%",
+  "Explainers and human-interest angles beat the raw alerts: 'here's what happened at 3:36 PM' (~3.12M) and the Frankie Lyft story (~2.61M) outran 'FAA issues NATIONWIDE GROUND STOP' (~258k). Every follow-up (root cause, national emergency, 55-year-old hardware, 'not a cyberattack') cleared 150k",
+  "Duffy vs the media was the best part of the story for likes: NBC clash ~1.89M (3.1%), 'Dana Bash claimed Trump went MISSING' ~277k (5.2%), Bash 'MASTERCLASS' ~203k (4.7%), 'Duffy TOOK THE BLAME' ~264k (3.7%). Sunday-show clips overall: 16 hits (~1.42M) at 4.6%",
+  "Anger at John Thune was again the top like-rate thread: 20 hits (~956k) at 7.7%. Short one-liners won ('never be a closed door secret vote' ~74k at 18.3%, 'which GOP Senators voted to keep SPINELESS John Thune' ~65k at 16.2%)",
+  "Warren/Schiff/Hillary lawfare posts did well: 15 hits (~1.32M) at 5.7%. Aaron Reitz 'put Warren ON NOTICE' ~285k (8.5%), 'SCHIFF DARED HIM' ~281k (6.3%), Trump's 'SEDITIOUS SIX' ~166k (11.2%)",
+  "rawsalerts' one-line #BREAKING posts hit big off-politics: Canadian cancer patient flees assisted-suicide advice ~2.09M (2.1%), 'GTA VI is now less than 1 shower away' ~632k, Bitly links hijacked ~358k, 'Zoomers one-shotting businesses using AI' ~209k",
+  "Iran (15 hits, ~1.22M, 3.6%: Bahrain drone attack ~379k, embassy threat to Navy officers ~159k) and Nvidia/Huang (8 hits, ~588k: Bessent 'new leader from outside' ~289k) kept going. Gunther's 'Hey @grok' questions kept reach with almost no likes: 11 hits (~863k) at 0.3%, led by 'will the UT vs LSU game be played tomorrow?' ~313k"
  ],
  "no_hits": [],
- "virals_narrative": "The outsider AI sweep (last ~48h, ~25 posts) had low reach again. The biggest posts were @testingcatalog's daily briefs (~24k for Nov 12, ~11k for Nov 13): Gemini 4 Hydrogen is out across the Gemini app, Search, AI Studio and the API at $1.50/$7.50 per 1M tokens, and Gemini Decision 1 is live in the API. Recap posts (~0.2-1.2k each) were all about the same few things: Claude Fable 5.2 still leads the AI-index and heat rankings, Anthropic's IPO is reportedly oversubscribed above its $70-78 range, and several recaps said Jensen Huang has resigned as Nvidia CEO. No outsider AI post came close to the watchlist's reach. X News themes: AI vibe coding and fears of skill loss ('cognitive surrender'), the fight over the 'AI slop' label in creative work, Amodei warning that half of entry-level white-collar jobs are at risk, Anthropic limiting Chinese distillation, and an Anthropic paper linking AI self-preservation to sci-fi training data. The closest AI-adjacent watchlist story was the Huang / Nvidia saga (~1.46M across 2 rawsalerts hits).",
- "narrative_synthesis": "Thursday-to-Friday window, the biggest day this week at ~9.53M views across 177 hits. rawsalerts' Jensen Huang rumor posts led ('fourth affair' ~1.03M, 'reinstate' petition ~436k), and the Microsoft Outlook/Teams outage gave Gunther two posts around 400k at low like rates. Anger at Thune over the Senate's three-day weekend was the main political thread (20 hits at 6.6%), with short one-liners beating 10%. Posts flipping the left's own move back on them (Blumenthal, lobsters, WaPo/Rubio) had the best mix of reach and likes. @grok questions and breaking crime news got reach but few likes. Volume was 177 originals (Gunther 157, alx 17, rawsalerts 3).",
+ "virals_narrative": "The outsider AI sweep (last ~48h, ~39 posts) was led by @elonmusk's Grok promos ('Try Grok' ~2.6M, the Grok text-watermarking post ~1.88M, 'Grok can do almost anything' ~1.19M) and @OpenAI's GPT-6 Astra physics story (~655k). @kimmonismus had the best AI-news reach: agents went from 2.5% to 41.3% of Remote Labor Index projects in 13 months (~125k), an Anthropic researcher saying superhuman AI could be ~1.3 years away (~95k), and the Qwen4-Max launch (~45k). The other big story was the WSJ report that the Trump administration plans to name Nvidia and 20+ AI firms 'national champions'. Lots of accounts posted it (@crypto_banter ~11k), but none broke out. That makes it an open lane that fits Patriot Punisher's politics-plus-AI mix.",
+ "narrative_synthesis": "Friday-to-Monday weekend window, the biggest window on record at ~43.96M views across 529 hits from 535 originals. The FAA nationwide ground stop took over: Gunther's Duffy explainer (~3.12M), the $850 Lyft traveler (~2.61M) and the NBC clash (~1.89M) all went past 1.8M. rawsalerts' Canadian assisted-suicide escape post hit ~2.09M. Like rates were again highest on Thune anger (7.7%), the lawfare fights (5.7%) and Sunday-show Duffy clips (4.6%). Takeaway: on big breaking news, the calm 'here's exactly what happened' explainer and one human story beat the siren alert. Next time a system outage hits, post the timeline and the human cost, not just the headline.",
  "virals_window": "last ~48h",
  "virals_target": 20,
- "hits_count": 177,
+ "hits_count": 529,
  "outsiders_count": 20,
  "previous_day": {
-  "date": "2026-11-12",
-  "hits_count": 171,
-  "total_views": 6086280,
+  "date": "2026-11-13",
+  "hits_count": 177,
+  "total_views": 9533764,
   "x_score": 100
  },
  "x_score": 100,
@@ -544,44 +554,44 @@
   "label": "Day Target",
   "status": "DONE",
   "hits_needed": 3,
-  "hits_got": 177
+  "hits_got": 529
  },
  "leaderboards": {
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-16",
   "week": {
    "label": "Week",
    "range": [
-    "2026-11-07",
-    "2026-11-13"
+    "2026-11-10",
+    "2026-11-16"
    ],
    "entries": [
     {
      "handle": "@GuntherEagleman",
-     "views": 1429294
+     "views": 3124661
+    },
+    {
+     "handle": "@GuntherEagleman",
+     "views": 2614300
     },
     {
      "handle": "@rawsalerts",
-     "views": 1027343
+     "views": 2086645
     },
     {
      "handle": "@GuntherEagleman",
-     "views": 920690
+     "views": 1887376
     },
     {
      "handle": "@GuntherEagleman",
-     "views": 726427
-    },
-    {
-     "handle": "@GuntherEagleman",
-     "views": 627948
+     "views": 1039456
     }
    ]
   },
   "month": {
    "label": "Month",
    "range": [
-    "2026-10-13",
-    "2026-11-13"
+    "2026-10-16",
+    "2026-11-16"
    ],
    "entries": [
     {
@@ -641,7 +651,8 @@
    "2026-11-10",
    "2026-11-11",
    "2026-11-12",
-   "2026-11-13"
+   "2026-11-13",
+   "2026-11-16"
   ]
  },
  "board_features": {
@@ -654,24 +665,24 @@
  },
  "drafts": [
   {
-   "en": "In about 48 hours the Jensen Huang story went from one affair report, to a reported exit, to 'fourth affair' rumors, to reports of Nvidia employees asking the board to bring him back.\n\nMost of that came from rumors.\n\nThe part that matters: Nvidia makes the chips nearly every AI lab depends on. Watch who the board names as CEO, not the rumor mill.",
-   "video_tip": "12s: a GPU chip on a black background while four headline cards stack and blur ('Affair', 'Exit', 'Rumor #4', 'Bring him back'). The final frame stays sharp: 'Who runs the chips?' Calm voiceover stands out next to the siren posts.",
-   "intent": "https://x.com/intent/post?text=In%20about%2048%20hours%20the%20Jensen%20Huang%20story%20went%20from%20one%20affair%20report%2C%20to%20a%20reported%20exit%2C%20to%20%27fourth%20affair%27%20rumors%2C%20to%20reports%20of%20Nvidia%20employees%20asking%20the%20board%20to%20bring%20him%20back.%0A%0AMost%20of%20that%20came%20from%20rumors.%0A%0AThe%20part%20that%20matters%3A%20Nvidia%20makes%20the%20chips%20nearly%20every%20AI%20lab%20depends%20on.%20Watch%20who%20the%20board%20names%20as%20CEO%2C%20not%20the%20rumor%20mill."
+   "en": "Friday's nationwide ground stop, in plain terms, according to Sec. Duffy:\n\nAt 3:36 PM, radar and comms at air traffic centers became unreliable. Not fully down. Just untrustworthy.\n\nWhen controllers can't trust the data, every plane stays on the ground.\n\nThis is what decades-old hardware costs when it fails.",
+   "video_tip": "15s: a radar sweep on a dark screen that starts to glitch and stutter at '3:36 PM', then a US map where airport dots turn red one at a time. End card: 'Not down. Unreliable.' Calm voiceover, no siren emojis, so it reads as the explainer next to the panic posts.",
+   "intent": "https://x.com/intent/post?text=Friday%27s%20nationwide%20ground%20stop%2C%20in%20plain%20terms%2C%20according%20to%20Sec.%20Duffy%3A%0A%0AAt%203%3A36%20PM%2C%20radar%20and%20comms%20at%20air%20traffic%20centers%20became%20unreliable.%20Not%20fully%20down.%20Just%20untrustworthy.%0A%0AWhen%20controllers%20can%27t%20trust%20the%20data%2C%20every%20plane%20stays%20on%20the%20ground.%0A%0AThis%20is%20what%20decades-old%20hardware%20costs%20when%20it%20fails."
   },
   {
-   "en": "Outlook and Teams went down for millions of people, and it stayed down for most of a day.\n\nHonest question: if your work email vanished for 17 hours, what's your backup?\n\nA second account? A phone number your team actually has? Or nothing?\n\nI'm starting to think 'nothing' is most of us.",
-   "video_tip": "10s screen-style clip: an inbox spinner that never loads, then a clock jumping ahead '1h... 6h... 17h'. End card: 'What's your backup?' Practical and non-partisan, so it can reach people outside the politics crowd.",
-   "intent": "https://x.com/intent/post?text=Outlook%20and%20Teams%20went%20down%20for%20millions%20of%20people%2C%20and%20it%20stayed%20down%20for%20most%20of%20a%20day.%0A%0AHonest%20question%3A%20if%20your%20work%20email%20vanished%20for%2017%20hours%2C%20what%27s%20your%20backup%3F%0A%0AA%20second%20account%3F%20A%20phone%20number%20your%20team%20actually%20has%3F%20Or%20nothing%3F%0A%0AI%27m%20starting%20to%20think%20%27nothing%27%20is%20most%20of%20us."
+   "en": "A cancer patient leaving Canada because doctors brought up assisted suicide drew over 2M views this weekend.\n\nPeople aren't arguing about medicine. They're asking a simpler question:\n\nWhen the system offers death before treatment, who is it really serving?",
+   "video_tip": "10s: an empty hospital hallway, slow push-in, with on-screen text 'Treatment?' then 'or...' then a cut to a passport stamp. Quiet piano, no voiceover. Let the question on the last frame do the work.",
+   "intent": "https://x.com/intent/post?text=A%20cancer%20patient%20leaving%20Canada%20because%20doctors%20brought%20up%20assisted%20suicide%20drew%20over%202M%20views%20this%20weekend.%0A%0APeople%20aren%27t%20arguing%20about%20medicine.%20They%27re%20asking%20a%20simpler%20question%3A%0A%0AWhen%20the%20system%20offers%20death%20before%20treatment%2C%20who%20is%20it%20really%20serving%3F"
   },
   {
-   "en": "Hey @grok, what's one everyday skill most Americans had 75 years ago that most of us have completely lost, and how long would it take to learn it again?",
-   "video_tip": "No video needed. This is the '@grok question' format (biggest reach, almost no likes). Use a nostalgia hook like the 'glory days' and Mustang posts. Pin your own answer (fixing an engine, canning, darning socks) as the first reply to collect the engagement.",
-   "intent": "https://x.com/intent/post?text=Hey%20%40grok%2C%20what%27s%20one%20everyday%20skill%20most%20Americans%20had%2075%20years%20ago%20that%20most%20of%20us%20have%20completely%20lost%2C%20and%20how%20long%20would%20it%20take%20to%20learn%20it%20again%3F"
+   "en": "Senate leadership votes should be on the record. Every one.\n\nIf a senator backed John Thune behind closed doors, they should be willing to say so in public.\n\nWe pay their salaries. We should know how they voted.",
+   "video_tip": "8s: a closed wooden door with a 'SECRET BALLOT' placard, then the door swings open on a blank roll-call board. Text: 'Show the votes.' One-liners on Thune did 11-18% like rates, so keep it short and let it get quoted.",
+   "intent": "https://x.com/intent/post?text=Senate%20leadership%20votes%20should%20be%20on%20the%20record.%20Every%20one.%0A%0AIf%20a%20senator%20backed%20John%20Thune%20behind%20closed%20doors%2C%20they%20should%20be%20willing%20to%20say%20so%20in%20public.%0A%0AWe%20pay%20their%20salaries.%20We%20should%20know%20how%20they%20voted."
   },
   {
-   "en": "The Senate's next recorded vote is Monday at 5:30 p.m.\n\nAbout 160 Trump nominees and two dozen judges are reportedly still waiting, and there are 51 days until January 3.\n\nIf you could force one confirmation vote before the Senate flips, who goes first?",
-   "video_tip": "10s: a countdown clock reading '51 DAYS' over an empty Senate chamber, then a stack of folders labeled 'NOMINEES'. End card: 'Who goes first?' Asks for an answer instead of venting about Thune, so it gets replies.",
-   "intent": "https://x.com/intent/post?text=The%20Senate%27s%20next%20recorded%20vote%20is%20Monday%20at%205%3A30%20p.m.%0A%0AAbout%20160%20Trump%20nominees%20and%20two%20dozen%20judges%20are%20reportedly%20still%20waiting%2C%20and%20there%20are%2051%20days%20until%20January%203.%0A%0AIf%20you%20could%20force%20one%20confirmation%20vote%20before%20the%20Senate%20flips%2C%20who%20goes%20first%3F"
+   "en": "Bessent says Nvidia needs a leader from outside the company, and nothing above the H200 gets sold to China.\n\nThat's the real Nvidia story. Not the rumors.\n\nWhoever runs the company that makes America's AI chips is now a national security decision.",
+   "video_tip": "12s: a GPU chip on black, with a red line drawn across it at 'H200' and a China flag fading out past the line. Then the CEO chair sits empty under a 'Who's next?' title. Calm voiceover stands out next to the gossip posts.",
+   "intent": "https://x.com/intent/post?text=Bessent%20says%20Nvidia%20needs%20a%20leader%20from%20outside%20the%20company%2C%20and%20nothing%20above%20the%20H200%20gets%20sold%20to%20China.%0A%0AThat%27s%20the%20real%20Nvidia%20story.%20Not%20the%20rumors.%0A%0AWhoever%20runs%20the%20company%20that%20makes%20America%27s%20AI%20chips%20is%20now%20a%20national%20security%20decision."
   }
  ],
  "scout_meta": {
@@ -682,9 +693,9 @@
    "GuntherEagleman",
    "rawsalerts"
   ],
-  "total_views": 9533764,
-  "stars": 162,
-  "start_time": "2026-11-12T16:10:00.000Z",
-  "window_note": "window Thu Nov 12 ~11:10 ET to Fri Nov 13 ~11:15 ET; Gunther 157 originals, alx 17, rawsalerts 3"
+  "total_views": 43956209,
+  "stars": 505,
+  "start_time": "2026-11-13T16:15:00.000Z",
+  "window_note": "window Fri Nov 13 ~11:15 ET to Mon Nov 16 ~11:05 ET (weekend); Gunther 489 originals, alx 37, rawsalerts 9"
  }
 }
